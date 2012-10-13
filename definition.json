@@ -1,0 +1,13 @@
+{
+	"version":"0.1",
+	"default": "sampleindex",
+	"definitions":[
+			{
+				"name":"sampleindex",
+				"author":"xreader",
+				"indextype":"github",
+				"description":"пример индекса! использовать только для тестирования",
+				"repository":"bot-watcher-index"
+			}
+		]
+}
