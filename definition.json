@@ -15,6 +15,13 @@
    "indextype": "github",
    "description": "description",
    "repository": "bot-watcher-index"
+  },
+  {
+   "name": "test2",
+   "author": "mumuger",
+   "indextype": "github",
+   "description": "test",
+   "repository": "bot-watcher-index"
   }
  ]
 }
